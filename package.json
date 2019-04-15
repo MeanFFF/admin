@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "file-loader": "1.1.6",
+    "rc-pagination": "1.15.1",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-router-dom": "4.2.2",
